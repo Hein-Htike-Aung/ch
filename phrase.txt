@@ -1,16 +1,58 @@
-Nĩ hão - Hello
-Nimen hão! - Hello, everyone!
-Lăoshi hão!- Hello, teacher!
-Wó shì Dàwei - I am David.
-Zàijiàn! - Goodbye
+Nǐ hǎo - hello
+Nǐmen hǎo - hello everyone
+Shědé - Yes
+Wǒ shì John/ Wǒ jiào John- I am John
+Zàijiàn - good bye
+Nǐ hǎo ma - how are you?
+Nǐ jiào shén mǎ - what's your name?
+Wǒ shì měiguó rén - I am american
+Měiguó hàomǎ - Is american good?
+Wǒ shì hǎorén - I am american
+Zhè shì wǒ de bàba - this is my dad
+Nǐ xǐhuān zhōngguó ma - do you like china?
+Zhè shì shén mǎ - what is it?
+Wǒ de bàba xǐhuān zhōngguó - my dad like china
+Wǒ de bàba jiào John - my dad's called john
+Zhè shì wǒ bàba de - this is my dad's
+Wǒ de bàba shì zhōngguó rén - My dad is chinese
+Nǐ shì zhōngguó rén ma - Are you chinese
+Měiguó rén xǐhuān zhōngguó ma - Do american like chinese
+Wǒ xǐhuān nǐ, nǐ xǐhuān wǒ ma - I like you, do you like me?
+
+Wǒ hěn è - I am very hungry
+Nǐ è ma - Are you hungry?
+Wǒ yě hěn è - I am very hungry too
+Zhège bù hǎokàn - this doesn't look good
+Xièxiè - Thanks
+Bù kèqì - You are welcome
+Duìbùqǐ - Im sorry
+Méiguānxì - Its ok
+Nǐ jiào shén mǎ míngzì - What's your name?
+Nǐ shì nǎ guórén - which country are you from?
+Nǐ de shǒujī hàomǎ shì shén mǎ - what is your phone number？
+Wǒ de shǒu jìshí 324324324234 -  My phone number is 324234324234
+Nǐ de yóuxiāng shì shén mǎ - what's your email?
+
+----Nián----yue-----hǎo-----xīngqí
+Jīntiān jǐ yuè jǐ hào - what date is today?
+Jīntiān wǔ yuè jiǔ hào - Today is May 9th
+Jīntiān xīngqí jǐ - what day is tody?
+Jīntiān xīngqítiān - today is sunday
+Wǔ yuè shíyī hào shì wǒ de shēngrì - May 11th is my birthday
+Tài hǎole - Very good
 
 
-Wõ hẽn è - Iam hungry
-Ni è ma? - Are you hungry?
-Wõ yè hẽn è - I am hungry, too.
-Zhège bù haokàn - This is not pretty
-Xièxie - Thanks
-Bú kèqi - You are welcome!
-Duibuqi - Sorry!
-Méi guânxi - That's OK!
+
+
+
+
+
+
+
+
+
+
+
+
+
 
