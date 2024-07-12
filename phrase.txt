@@ -39,9 +39,15 @@ Jīntiān wǔ yuè jiǔ hào - Today is May 9th
 Jīntiān xīngqí jǐ - what day is tody?
 Jīntiān xīngqítiān - today is sunday
 Wǔ yuè shíyī hào shì wǒ de shēngrì - May 11th is my birthday
-Tài hǎole - Very good
+Tài hǎo le - Very good
 
-
+sub + (adv) + adj
+Wǒ máng - I'm busy
+Wǒ hěn máng - I'm very busy
+Wǒ bù máng - I'm not busy
+Tā kàn zhòngwén shū - He reads chinese book
+Tā hē shuǐ - He drinks water
+Tā chī miànbāo - He eats bread
 
 
 
