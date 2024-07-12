@@ -45,9 +45,89 @@ sub + (adv) + adj
 Wǒ máng - I'm busy
 Wǒ hěn máng - I'm very busy
 Wǒ bù máng - I'm not busy
+
+sub + v + obj
 Tā kàn zhòngwén shū - He reads chinese book
 Tā hē shuǐ - He drinks water
 Tā chī miànbāo - He eats bread
+Wǒ wán shǒujī - I play with my phone
+
+sub + time + verb
+Wǒ zǎoshang liù diǎn chīfàn - I eat at six o'clock in the morning
+Māmā wǎnshàng bā diǎn huí jiā - Mom comes home at eight o'clock in the evening
+Wǒ míngtiān shàngbān - I go to work tomorrow
+
+sub + time + location + verb
+Wǒ měitiān zàijiā zuò fàn - I cook at home every day
+Míngtiān wǒmen qù fàndiàn chīfàn - tomorrow we go to restaurant to eat
+Wǒ zuótiān zài péngyǒu jiā shuìjiào - I slept at a friend's house yesterday
+
+Tā hé shuǐ ma - does he drink water？
+Nǐ lái le ma - Are you coming？
+Xià yǔ le ma - Is it raining？
+Nǐ zài jiā ma - Are you at home？
+
+Nǐ de shū zài zhè'er, wǒ de nà? - your book is here， what about mine?
+Wǒ zhù zài zhōngguó, nǐ ne - I live in China, what about you?
+
+Wǒ xǐhuān chī mǐfàn - i like to eat rice
+Wǒ hěn xǐhuān měiguó, měiguó rén hǎo - I like America very much. Americans are good.
+Zhè shì wǒ bàba de māmā - This is my dad's mom
+Zhōngguó de mǐfàn hán hào chī - Chinese rice is delicious
+Wǒ de māmā hěn xǐhuān chī mǐfàn - My mother likes to eat rice
+Nǐ xǐhuān chī mǐfàn ma - do you like to eat rice？
+Wǒ bù xǐhuān chī mǐfàn - I don't like to eat rice
+Wǒ bùshì zhōngguó rén, wǒ shì měiguó rén - I'm not Chinese, I'm American
+Nǐ bùshì zhōngguó rén ma - Aren't you Chinese?
+Wǒ bù xǐhuān chī dōngxī - I don't like to eat anything
+Nǐ xǐhuān chī shén mǎ - what do you like to eat?
+Zhè hěn hǎo - This is good
+
+Tā zài nǎ'er - where is she？
+Tā zài nà ěr - He's there
+Tā zài kàn diànyǐng - he is watching a movie
+Tā hé tā māmā zài kàn diànyǐng - She and her mother are watching a movie
+Tā bàba xǐhuān kàn diànyǐng - His dad likes to watch movies
+Nǐ xǐhuān kàn měiguó de diànyǐng ma - Do you like watching American movies?
+Wǒ hé tā zài chī dōngxī - He and I are eating something
+Měiguó rén xǐhuān kàn shén mǎ diànyǐng - what kind of movies Americans like to watch?
+Nǐ zài kàn shén mǎ diànyǐng - What movie are you watching?
+Wǒ bù xǐhuān hé tā kàn diànyǐng - I don't like watching movies with him
+Nǐ zài nǎ'er kàn měiguó de diànyǐng - Where do you watch American movies?
+Wǒ zài chī mǐfàn - I'm eating rice
+
+Wǒ xiǎng chīfàn - I want to eat
+Wǒ xiǎng wǒ de māmā - i miss my mother
+Nǐ zài xiǎng shén mǎ - What are you thinking about?
+Wǒ zài xiǎng gōngzuò - I'm thinking about work
+Wǒ xiǎng xuéxí - I want to learn
+Wǒ yǒu sān gè lǎoshī - I have three teachers
+Wǒ bù xiǎng kàn diànyǐng - I don't want to watch a movie
+Zhège lǎoshī yǒu sān gè xué shàng - This teacher has three students
+Nǐ zài xuéxí shén mǎ - What are you learning
+Nǐ xǐhuān nǐ de lǎoshī ma - do you like your teacher
+Wǒ xiǎng hé tā kàn diànyǐng - I want to watch a movie with her
+Zhège diànyǐng hěn hǎo - This movie is very good
+Nàgè diànyǐng bù hǎo - That movie is not good
+Nǎ'er yǒu bā gèrén - There are 8 people
+Zhège xuéshēng bù xǐhuān tā de lǎoshī - The student doesn't like his teacher
+Tā de lǎoshī shì wǒ de xuéshēng - His teacher is my student
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
