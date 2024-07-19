@@ -45,14 +45,31 @@ sub + (adv) + adj
 Wǒ máng - I'm busy
 Wǒ hěn máng - I'm very busy
 Wǒ bù máng - I'm not busy
+
+sub + v + obj
 Tā kàn zhòngwén shū - He reads chinese book
 Tā hē shuǐ - He drinks water
 Tā chī miànbāo - He eats bread
+Wǒ wán shǒujī - I play with my mobile phone
 
+sub + time + location + verb
+Wǒ měitiān zàijiā zuò fàn - I cook at home every day
+Míngtiān wǒmen qù fàndiàn chīfàn - Let's go to a restaurant for dinner tomorrow
+Wǒ zuótiān zài péngyǒu jiā shuìjiào - I slept at a friend's house yesterday
 
+Nǐ hǎo ma - Are you OK
+Nǐ máng ma - Are you busy
+Tā hē shuǐ ma - Does he drink water?
+Nǐ lái le ma - Are you coming
+Xià yǔle ma - Is it raining
+Nǐ zài jiā ma - Are you at home
 
+Wǒ hěn hǎo, nǐ nà - I'm fine, what about you?
+Nǐ de shū zài zhè'er, wǒ de ne - Your book is here, where is mine?
+Wǒ zhù zài zhōngguó, nǐ ne - I live in China, what about you?
 
-
+Wǒ xǐhuān chī mǐfàn - i like to eat rice
+Wǒ xiǎng wǒ de māmā - i miss my mother
 
 
 
