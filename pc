@@ -1,0 +1,7 @@
+pc
+
+Ryzen 5 3550H
+NVIDIA GeForce GTX 1650
+
+Intel Core i5-9300H / i5 - 8th gen
+AMD Radeon RX 560
